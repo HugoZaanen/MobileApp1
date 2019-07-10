@@ -12,7 +12,7 @@ namespace MobileApp1
             InitializeComponent();
 
 
-            MainPage = new MainPage();
+            MainPage = new ContentPageExample();
         }
 
         protected override void OnStart()
